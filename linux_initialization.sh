@@ -9,7 +9,7 @@ sudo apt-get -y install vim
 sudo apt-get -y install ntfs-3g
 sudo apt-get -y install synaptics
 sudo apt-get -y install wget curl
-
+sudo apt-get -y install ibus ibus-chewing
 
 
 
