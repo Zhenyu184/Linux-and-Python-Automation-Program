@@ -13,7 +13,7 @@ $ echo :$PATH
 ```
 
 ```
-$ mkdir ~/chromium && cd ~/chromium
+$ mkdir -m 711 ~/chromium && cd ~/chromium
 ```
 
 
