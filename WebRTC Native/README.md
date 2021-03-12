@@ -66,6 +66,7 @@ $ mkdir webrtc-checkout
 $ cd webrtc-checkout
 ```
 
+如果不想要完整的回朔歷史記錄，可以通過將加上 --no-history 到來節省大量時間
 ```
 $ fetch --nohooks webrtc
 ```
